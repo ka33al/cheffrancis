@@ -1,0 +1,6 @@
+{
+  "homepage":"https://francischef.com",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
